@@ -1,0 +1,12 @@
+Name: bunny
+Population: 2000
+Growth Rate: 0.2%
+
+Name: gooch
+Population: 98
+Growth Rate: 3.4%
+
+Name: yada
+Population: 21
+Growth Rate: 3.4%
+

@@ -1,0 +1,4 @@
+name,population,growth_rate
+bunny,2000,0.2
+gooch,98,3.4
+yada,21,3.4
